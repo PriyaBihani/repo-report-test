@@ -1,4 +1,4 @@
-# repo-report <sup>[![Version Badge][npm-version-svg]][package-url]</sup>
+# repo-report-test <sup>[![Version Badge][npm-version-svg]][package-url]</sup>
 
 [![github actions][actions-image]][actions-url]
 [![coverage][codecov-image]][codecov-url]
